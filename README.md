@@ -48,8 +48,6 @@ The **Spinarium Casino Script** is designed to provide everything you need to ru
 ## Support & Contact
 
 Have questions? We're here to help:  
-
-📧 **Email**: [support@casino-scripts.com](mailto:support@casino-scripts.com)  
 🌐 **Contact Form**: [Get in Touch Here](https://www.casino-scripts.com/contact)
 
 ---
